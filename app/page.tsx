@@ -113,7 +113,7 @@ export default function Home() {
             </h2>
             
             <p className="text-gray-600 text-lg mb-8 max-w-xl">
-              Instant, real-time communication, providing both visual connection and immediate answers to customers' inquiries.
+              Instant, real-time communication, providing both visual connection and immediate answers to customers&apos; inquiries.
             </p>
             
             {/* CTA 按钮 */}
